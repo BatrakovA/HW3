@@ -1,0 +1,2 @@
+У 4 задачи есть еще много интересных способов решения, если будет интересно, 
+можете почитать вот этот тред на stackoverflow: https://stackoverflow.com/questions/268272/getting-key-with-maximum-value-in-dictionary
